@@ -11,7 +11,7 @@
 
 Traditionally game servers are not easy to manage yourself. Admins often have to spend hours messing around trying to get their server working. LinuxGSM is a command-line tool designed to be as simple as possible, allowing admins to spend less time on management and more time gaming.
 
-## Main features
+## Main features -TEST TEST TEST-
 
 100+ game servers supported
 

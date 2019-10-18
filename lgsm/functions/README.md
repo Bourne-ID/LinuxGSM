@@ -1,4 +1,4 @@
-# Linux Game Server Manager - Functions
+# Linux Game Server Manager - Functions TEST TEST TEST
 
 These functions are universal functions that work in all scripts.
 
